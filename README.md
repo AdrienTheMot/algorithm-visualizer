@@ -18,7 +18,7 @@ Built with **React, TypeScript, Vite, and TailwindCSS**. Deployed on **Vercel**.
   - Auto-layout tree with edges & labels
   - Clear/reset functionality
 
-- **Modern Tech Stack**
+- **Tech Stack**
   - React + TypeScript
   - TailwindCSS for styling
   - Vite for fast builds
